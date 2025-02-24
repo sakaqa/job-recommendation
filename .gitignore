@@ -13,6 +13,8 @@ dist-ssr
 *.local
 
 src/firebase.js
+job-api/firebaseConfig.json
+
 
 # Editor directories and files
 .vscode/*
