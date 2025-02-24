@@ -26,7 +26,13 @@ Le site repose sur un stack technologique robuste comprenant :
 ## 📄 Rapport détaillé
 Pour plus d'informations sur le projet, consultez le rapport détaillé : [Rapport du projet](https://github.com/sakaqa/job-recommendation/blob/a12097620f33d60e38f3e1e0d9efe001ddc04f3c/rapport-projet-f2i-school.md)
 
+## 📜 Auteurs du projet
+Ce projet a été réalisé par :
+- **Oussama Karama**
+- **Farès Hazgui**
+
+## 📂 Présentation du projet
+Vous pouvez télécharger la présentation du projet ici : [Télécharger la présentation](sandbox:/mnt/data/Presentation_Projet_Scraping%20(1).pptx)
+
 ## 📌 Conclusion
 Le site **https://evident-torus-451614-t6.web.app/** offre une expérience utilisateur optimisée et exploite les dernières technologies web pour une performance accrue. 🚀
-
-## Groupe : Farès Hazgui et Oussama Karama
