@@ -28,3 +28,5 @@ Pour plus d'informations sur le projet, consultez le rapport détaillé : [Rappo
 
 ## 📌 Conclusion
 Le site **https://evident-torus-451614-t6.web.app/** offre une expérience utilisateur optimisée et exploite les dernières technologies web pour une performance accrue. 🚀
+
+## Groupe : Farès Hazgui et Oussama Karama
